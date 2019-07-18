@@ -1,4 +1,4 @@
-package com.liezh.zookeeper_provider;
+package com.liezh.zookeeper_provider_1;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

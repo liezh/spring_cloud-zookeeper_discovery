@@ -8,9 +8,9 @@
         <artifactId>spring_cloud_zookeeper_discovery</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
-    <artifactId>zookeeper_provider</artifactId>
-    <name>zookeeper_provider</name>
-    <description>Demo project for zookeeper provider</description>
+    <artifactId>zookeeper_provider_1</artifactId>
+    <name>zookeeper_provider_1</name>
+    <description>Demo project for zookeeper provider 1</description>
 
     <properties>
         <java.version>1.8</java.version>

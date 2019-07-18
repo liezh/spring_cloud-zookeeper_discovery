@@ -1,4 +1,4 @@
-package com.liezh.zookeeper_provider;
+package com.liezh.zookeeper_provider_1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
